@@ -1,0 +1,14 @@
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\bin\Debug\NotDefteriOdev.exe.config
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\bin\Debug\NotDefteriOdev.exe
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\bin\Debug\NotDefteriOdev.pdb
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.csproj.AssemblyReference.cache
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.Form1.resources
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.Properties.Resources.resources
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.csproj.GenerateResource.cache
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.csproj.CoreCompileInputs.cache
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.exe
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.pdb
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.LoginForm.resources
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Samet Polat\source\repos\NotDefteriOdev\NotDefteriOdev\obj\Debug\NotDefteriOdev.csproj.CopyComplete
