@@ -86,6 +86,9 @@ namespace NotDefteriOdev
         private void BtnSil_Click(object sender, EventArgs e)
         {
             //Datastore classı içerisindeki seçili notu sildik ve listeyi yeniden getirdik.
+
+            //samet-murat
+
             DataStore.notes.Remove(selectedNote);
             selectedNote = null;
             RchNote.Text = string.Empty;
